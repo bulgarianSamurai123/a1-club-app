@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_584" data-name="Group 584" transform="translate(-961.633 -798)">
+    <g id="UI_Icons_24px_24-001-Copy-110" data-name="UI/Icons/24px/24-001-Copy-110" transform="translate(961.633 798)">
+      <path id="Combined-Shape" d="M1.8,3.6V22.2H20.4V24H1.8a1.727,1.727,0,0,1-1.26-.54A1.727,1.727,0,0,1,0,22.2V3.6ZM22.2,0a1.727,1.727,0,0,1,1.26.54A1.727,1.727,0,0,1,24,1.8V18.6a1.846,1.846,0,0,1-1.8,1.8H5.4a1.727,1.727,0,0,1-1.26-.54A1.727,1.727,0,0,1,3.6,18.6V1.8A1.727,1.727,0,0,1,4.14.54,1.727,1.727,0,0,1,5.4,0Zm0,1.8H5.4V18.6H22.2Z" fill-rule="evenodd"/>
+    </g>
+    <text id="pdf" transform="translate(975 810)" font-size="9" font-family="A1Serif-Bold, A1 Serif" font-weight="700"><tspan x="-7" y="0">pdf</tspan></text>
+  </g>
+</svg>

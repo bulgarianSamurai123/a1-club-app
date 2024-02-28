@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.31 80.914">
+  <g id="Group_1643" data-name="Group 1643" transform="translate(-2637.849 -4811)">
+    <path id="Path_1055" data-name="Path 1055" d="M421.179,2523.322a36.655,36.655,0,1,1-36.655-36.655,36.654,36.654,0,0,1,36.655,36.655m-6.109,0a30.546,30.546,0,1,1-30.546-30.546,30.546,30.546,0,0,1,30.546,30.546" transform="translate(2289.98 2331.938)" fill="#ff372d" fill-rule="evenodd"/>
+    <rect id="Rectangle_1638" data-name="Rectangle 1638" width="6.119" height="45.894" transform="translate(2671.965 4842.596)" fill="#ff372d"/>
+    <rect id="Rectangle_1639" data-name="Rectangle 1639" width="6.119" height="67.311" transform="translate(2696.139 4830.358) rotate(45)" fill="#ff372d"/>
+    <rect id="Rectangle_1640" data-name="Rectangle 1640" width="6.119" height="67.311" transform="translate(2708.16 4851.774) rotate(90)" fill="#ff372d"/>
+    <rect id="Rectangle_1641" data-name="Rectangle 1641" width="6.119" height="67.311" transform="translate(2700.987 4876.894) rotate(135)" fill="#ff372d"/>
+    <g id="Polygon_1" data-name="Polygon 1" transform="translate(2681.144 4833.417) rotate(180)" fill="#ff372d">
+      <path d="M 12.90125751495361 21.91719818115234 L 12.2383975982666 21.91719818115234 L -2.154541107302066e-06 21.91719818115234 L -0.6628621816635132 21.91719818115234 L -0.4807621538639069 21.27983856201172 L 5.638437747955322 -0.1373618692159653 L 6.119197845458984 -1.820031881332397 L 6.599957942962646 -0.1373618692159653 L 12.71915817260742 21.27983856201172 L 12.90125751495361 21.91719818115234 Z" stroke="none"/>
+      <path d="M 6.119197845458984 -1.9073486328125e-06 L -1.9073486328125e-06 21.41719818115234 L 12.2383975982666 21.41719818115234 L 6.119197845458984 -1.9073486328125e-06 M 6.119197845458984 -3.640052795410156 L 13.56412792205811 22.41719818115234 L -1.325732231140137 22.41719818115234 L 6.119197845458984 -3.640052795410156 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Ellipse_54" data-name="Ellipse 54" transform="translate(2662.787 4842.596)" fill="#ff372d" stroke="#fff" stroke-width="3">
+      <circle cx="12.238" cy="12.238" r="12.238" stroke="none"/>
+      <circle cx="12.238" cy="12.238" r="13.738" fill="none"/>
+    </g>
+  </g>
+</svg>
